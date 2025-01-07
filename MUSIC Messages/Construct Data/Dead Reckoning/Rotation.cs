@@ -1,20 +1,33 @@
-﻿//=====================================================================
-// DISCOVERY MACHINE, INC. PROPRIETARY INFORMATION
-//
-// This software is supplied under the terms of a license agreement
-// or nondisclosure agreement with Discovery Machine, Inc. and may
-// not be copied or disclosed except in accordance with the terms of
-// that agreement.
-//
-// Copyright 2022-23 Discovery Machine, Inc. All Rights Reserved.
-//=====================================================================
-
-// This class was originally Rotation.java from a library we used in Java to
+﻿// This class was originally Rotation.java from a library we used in Java to
 // get the job done.  Unfortunately, the library did not exist in C# at the 
 // time of writing this so we brought over the bare minimum required and made changes
 // where necessary.  The original Rotation class can be found at the following link
 // for a better understanding of what's going on here:
 // https://commons.apache.org/proper/commons-math/javadocs/api-3.6.1/org/apache/commons/math3/geometry/euclidean/threed/package-summary.html
+
+/**
+ * Copyright (c)  Discovery Machine®, Inc.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/*
+ * Licensed to the Apache Software Foundation (ASF) under one or more
+ * contributor license agreements.  See the NOTICE file distributed with
+ * this work for additional information regarding copyright ownership.
+ * The ASF licenses this file to You under the Apache License, Version 2.0
+ * (the "License"); you may not use this file except in compliance with
+ * the License.  You may obtain a copy of the License at
+ *
+ *      http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
 
 using System;
 using System.Linq;

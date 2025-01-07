@@ -1,4 +1,11 @@
-﻿using MUSICLibrary.Interfaces;
+﻿/**
+ * Copyright (c)  Discovery Machine®, Inc.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+using MUSICLibrary.Interfaces;
 using Newtonsoft.Json.Linq;
 using System;
 using System.Collections.Generic;

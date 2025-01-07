@@ -1,13 +1,9 @@
-﻿//=====================================================================
-//DISCOVERY MACHINE, INC. PROPRIETARY INFORMATION
-//
-//This software is supplied under the terms of a license agreement
-//or nondisclosure agreement with Discovery Machine, Inc. and may
-//not be copied or disclosed except in accordance with the terms  of
-//that agreement.
-//
-//Copyright 2022 Discovery Machine, Inc. All Rights Reserved.
-//=====================================================================
+﻿/**
+ * Copyright (c)  Discovery Machine®, Inc.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
 
 using MUSICLibrary.MUSIC_Messages.MUSIC_Request_Messages;
 using Newtonsoft.Json;
